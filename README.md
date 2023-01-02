@@ -1,6 +1,6 @@
 # credit-risk-modeling
-credit risk modeling: Consumer loan data 2007-2014
-Consumer loans are the most typical retail product where credit risk modeling is applied.
+credit risk modeling: Consumer loan data 2007-2014.
+Modeled the credit risk associated with consumer loans. Performed exploratory data analysis (EDA), preprocessing of continuous and discrete variables using various techniques depending on the feature. Checked for missing values and cleaned the data. Built the probability of default model using Logistic Regression. Visualized all the results
 
 PD (Probability of default): Logistic regression
 
